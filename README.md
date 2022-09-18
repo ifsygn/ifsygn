@@ -41,6 +41,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<br>
+
 <p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 

@@ -20,6 +20,14 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm ismail furkan saygın</h1>
 <h3 align="center">A passionate back-end developer from Turkey</h3>
 
+<p><p>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/ifsygn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ifsygn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ismailfurkansaygin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismailfurkansaygin" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/ifsygn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ifsygn" height="30" width="40" /></a>
+</p></p>
+
 <p align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=ifsygn&style=flat" />
 </p>  
@@ -33,26 +41,14 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
-<p><p>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/ifsygn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ifsygn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ismailfurkansaygin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismailfurkansaygin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ifsygn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ifsygn" height="30" width="40" /></a>
-</p> 
-</p>
-
- <br>
- 
+<p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
   
+  <p>
   <p align="center"> 
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
- 
- 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+</p>

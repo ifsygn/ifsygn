@@ -41,8 +41,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<br> adasdas </br>
-
 <p align="center">
 <h3 align="center">Languages and Tools:</h3>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 

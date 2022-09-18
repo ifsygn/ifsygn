@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">
-<src=[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)/>
+<src=[![GitHub Streak](https://streak-stats.demolab.com?user=ifsygn&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)/>
 </h3>
 
 <h3 align="center">Connect with me:</h3>

@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   </a>
 </p>  
 
-<p>
+<p align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=ifsygn&style=flat" />
 </p>  
   

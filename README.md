@@ -31,8 +31,11 @@ Here are some ideas to get you started:
 
 <p align="center"> [![GitHub Streak](https://streak-stats.demolab.com?user=ifsygn&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) </p>
 
+<a href="https://git.io/streak-stats" target="blank"><img align="center" src="https://streak-stats.demolab.com?user=ifsygn&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="30" width="40" /></a>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+ 
 <a href="https://twitter.com/ifsygn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ifsygn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ismailfurkansaygin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismailfurkansaygin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ifsygn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ifsygn" height="30" width="40" /></a>

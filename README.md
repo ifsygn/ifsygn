@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 
 <p>
   <a href="" target = "blank">
-![](https://komarev.com/ghpvc/?username=ifsygn&style=flat)
-<img align="center" src="https://komarev.com/ghpvc/?username=ifsygn&style=flat" alt="" height="200" width="400"/>
+<img align="center" src="https://komarev.com/ghpvc/?username=ifsygn&style=flat" alt="" />
   </a>
 </p>  
   

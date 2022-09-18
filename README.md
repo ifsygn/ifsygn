@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate back-end developer from Turkey</h3>
 
 <p align="left">
-<a href="https://git.io/streak-stats" target="blank"> <img align="center" src="https://streak-stats.demolab.com?user=ifsygn&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="200" width="400" /></a>
+<a href="https://git.io/streak-stats" target="blank"> 
+  <img align="left" src="https://streak-stats.demolab.com?user=ifsygn&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="200" width="400" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifsygn&layout=compact" alt="Top Langs" height="200" width="400" />
+  </a>
   
   <p align="right">
 <a href="https://github.com/ifsygn/github-readme-stats" target="blank"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifsygn&layout=compact" alt="Top Langs" height="200" width="400" /></a>

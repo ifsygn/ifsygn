@@ -33,8 +33,6 @@ Here are some ideas to get you started:
 <img align="center" src="https://komarev.com/ghpvc/?username=ifsygn&style=flat" />
 </p>  
   
-  
-  
 <p>
   <a href="https://git.io/streak-stats" target="blank"> 
     <img align="left" src="https://streak-stats.demolab.com?user=ifsygn&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="200" width="400"/>
@@ -44,9 +42,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
-
- 
+<p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -55,5 +51,4 @@ Here are some ideas to get you started:
   <p align="center"> 
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
- 
- 
+</p>

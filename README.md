@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="center"> 
 <a href="[![GitHub Streak](https://streak-stats.demolab.com?user=ifsygn&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)"
-   height="30" width="40" /></a>
+</a>
 </p>
 
 

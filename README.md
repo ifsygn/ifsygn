@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 <img align="center" src="https://komarev.com/ghpvc/?username=ifsygn&style=flat" />
   </a>
 </p>  
+
+<p>
+<img align="center" src="https://komarev.com/ghpvc/?username=ifsygn&style=flat" />
+</p>  
   
 <p>
   <a href="https://git.io/streak-stats" target="blank"> 

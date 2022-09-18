@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **ifsygn/ifsygn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white) ![twitter](https://img.shields.io/twitter/follow/ifsygn?style=social)
+
 <h1 align="center">Hi 👋, I'm ismail furkan saygın</h1>
 <h3 align="center">A passionate back-end developer from Turkey</h3>
 

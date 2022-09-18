@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://komarev.com/ghpvc/?username=ifsygn&style=flat" />
 </p>  
   
-<p>
+<p align ="center">
   <a href="https://git.io/streak-stats" target="blank"> 
     <img align="left" src="https://streak-stats.demolab.com?user=ifsygn&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="200" width="400"/>
   </a>

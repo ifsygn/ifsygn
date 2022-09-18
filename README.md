@@ -26,12 +26,8 @@ Here are some ideas to get you started:
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifsygn&layout=compact" alt="Top Langs" height="200" width="400" />
   </a>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-
 
 <h3 align="center">Connect with me:</h3>
-
-
 <p align="center">
 <a href="https://twitter.com/ifsygn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ifsygn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ismailfurkansaygin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismailfurkansaygin" height="30" width="40" /></a>

@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm ismail furkan saygın</h1>
-<h3 align="center">A passionate back-end developer from Turkey</h3>
+<h3 align="center">Becoming back-end developer from Turkey</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

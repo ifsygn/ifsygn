@@ -52,6 +52,8 @@ Here are some ideas to get you started:
   </a> 
 </p>
   
+<!--
+  
 <p align="center"> 
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
@@ -68,3 +70,5 @@ Here are some ideas to get you started:
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>     </a>
 </p>
+
+-->

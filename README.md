@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/ismailfurkansaygin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismailfurkansaygin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ifsygn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ifsygn" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ifsygn" target="blank">
-  <img align="center" src="https://img2.freepng.es/20180421/ade/kisspng-hackerrank-computer-programming-programmer-logo-in-hacker-logo-5adb399c838b01.4150693715243165725388.jpg" alt="ifsygn" width="30" height="40"></a> 
+  <img align="center" src="https://img2.freepng.es/20180421/ade/kisspng-hackerrank-computer-programming-programmer-logo-in-hacker-logo-5adb399c838b01.4150693715243165725388.jpg" alt="ifsygn" width="30" height="30"></a> 
   
 </p>
 

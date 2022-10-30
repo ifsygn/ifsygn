@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-![matrix](https://media1.giphy.com/media/11e0gEWxYoSYTK/giphy.gif?cid=ecf05e47o86mr3jvf65selde3q3sba22c17dhjwkon0u2gg3&rid=giphy.gif&ct=g)
-<br/>
-</p>
 
 <p align="center">
 <img align="center" src="https://media1.giphy.com/media/11e0gEWxYoSYTK/giphy.gif?cid=ecf05e47o86mr3jvf65selde3q3sba22c17dhjwkon0u2gg3&rid=giphy.gif&ct=g" alt="matrix" width="500" height="200"></a> 

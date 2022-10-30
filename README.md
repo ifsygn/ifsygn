@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![matrix align = "center"](https://media1.giphy.com/media/11e0gEWxYoSYTK/giphy.gif?cid=ecf05e47o86mr3jvf65selde3q3sba22c17dhjwkon0u2gg3&rid=giphy.gif&ct=g)
+
+<p align="center">
+![matrix](https://media1.giphy.com/media/11e0gEWxYoSYTK/giphy.gif?cid=ecf05e47o86mr3jvf65selde3q3sba22c17dhjwkon0u2gg3&rid=giphy.gif&ct=g)
 <br/>
+</p>
 
 <h1 align="center">Hi 👋, I'm ismail furkan saygın</h1>
 <h3 align="center">Becoming back-end developer from Turkey</h3>

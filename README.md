@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/ifsygn" target="blank">
   <img align="center" src="https://img2.freepng.es/20180421/ade/kisspng-hackerrank-computer-programming-programmer-logo-in-hacker-logo-5adb399c838b01.4150693715243165725388.jpg" alt="ifsygn" width="40" height="30"></a> 
 <a href="https://app.patika.dev/ifsygn" target="blank">
-  <img align="center" src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.png" alt="ifsygn" width="40" height="40"></a> 
+  <img align="center" src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.png" alt="ifsygn" width="50" height="50"></a> 
 </p>
 
 <p align="center">

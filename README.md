@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://media1.giphy.com/media/11e0gEWxYoSYTK/giphy.gif?cid=ecf05e47o86mr3jvf65selde3q3sba22c17dhjwkon0u2gg3&rid=giphy.gif&ct=g" alt="matrix" width="500" height="200"></a> 
 </p>
 
-<h1 align="center">Hi 👋, I'm ismail furkan saygın</h1>
+<h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">Becoming back-end developer from Turkey</h3>
 
 <h3 align="center">Connect with me:</h3>
@@ -36,6 +36,9 @@ Here are some ideas to get you started:
 <p align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=ifsygn&style=flat" />
 </p>  
+
+<details align="center" > 
+  <summary><h2>👨🏼‍💻 More details about me</h2></summary>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -80,3 +83,5 @@ Here are some ideas to get you started:
 </p>
 
 -->
+
+  </details>

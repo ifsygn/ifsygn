@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![matrix](https://tenor.com/view/matrix-the-matrix-has-you-gif-8222043)
+<br/>
 
-
-
-<div class="tenor-gif-embed" data-postid="8222043" data-share-method="host" data-aspect-ratio="2.34783" data-width="100%"><a href="https://tenor.com/view/matrix-the-matrix-has-you-gif-8222043">Matrix The Matrix Has You GIF</a>from <a href="https://tenor.com/search/matrix-gifs">Matrix GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h1 align="center">Hi 👋, I'm ismail furkan saygın</h1>
 <h3 align="center">Becoming back-end developer from Turkey</h3>
 

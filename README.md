@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 <h1 align="center">Hi 👋, It's Furkan,</h1>
-<h2 align="center">this is my matrix</h2>
+<h3 align="center">this is my matrix</h3>
 <h3 align="center">Becoming back-end developer from Turkey</h3>
 
 <h3 align="center">Connect with me:</h3>

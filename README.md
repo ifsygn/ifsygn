@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, It's Furkan,</h1>
 <h3 align="center">this is my matrix</h3>
-<h3 align="center">Becoming back-end developer from Turkey</h3>
+<h3 align="center">Becoming Construction AI Developer</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
